@@ -6,6 +6,8 @@
 
 - 💬 Ask me about **Javascript**
 
+- Always Interested in learning new things
+
 - 📫 How to reach me **mugilancodes@gmail.com**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mugilan-codes&show_icons=true" alt="mugilan-codes" /> </p>
