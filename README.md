@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- :: Always Interested in learning new things
+- :art: Always Interested in learning new things
 
 - 📫 How to reach me **mugilancodes@gmail.com**
 
