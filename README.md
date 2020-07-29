@@ -12,6 +12,8 @@
 
 - My Sourcerer [Profile](https://sourcerer.io/mugilan-codes)
 
+- My LinkedIn [Profile](https://www.linkedin.com/in/mugilan-codes/)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mugilan-codes&show_icons=true&&theme=radical" alt="mugilan-codes" /> </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilan-codes"></p>
@@ -24,13 +26,6 @@
 <a href="https://fb.com/mugilancodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mugilancodes" height="20" width="20" /></a>
 <a href="https://instagram.com/mugilancodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mugilancodes" height="20" width="20" /></a>
 </p>
-
-<!--
-### Hello, World!
-
-- [LinkedIn](https://www.linkedin.com/in/mugilan-codes/)
-- [Sourcerer](https://sourcerer.io/mugilan-codes)
--->
 
 <!--
 **Mugilan-Codes/Mugilan-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
