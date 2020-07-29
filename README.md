@@ -14,9 +14,9 @@
 
 - My LinkedIn [Profile](https://www.linkedin.com/in/mugilan-codes/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mugilan-codes&show_icons=true&&theme=radical" alt="mugilan-codes" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mugilan-codes&show_icons=true&theme=radical" alt="mugilan-codes" /> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilan-codes"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilan-codes&layout=compact"></p>
 
 <p align="center">
 <a href="https://codepen.io/mugilan-codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mugilan-codes" height="20" width="20" /></a>
