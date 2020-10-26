@@ -17,6 +17,12 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mugilan-Codes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Mugilan-Codes&theme=onedark"></p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugilan-Codes&theme=dark"/>
+  </a>
+</p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mugilan-codes&show_icons=true&include_all_commits=true&theme=radical" alt="mugilan-codes"></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilan-codes&layout=compact"></p>
