@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mugilan</h1>
 <h3 align="center">Full Stack Javascript Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mugilan-codes" alt="mugilan-codes" /> </p>
-
-- 🔭 I’m currently working on [My Family Budget](https://github.com/Mugilan-Codes/my-family-budget)
-
-- 💬 Ask me about **Javascript**
-
-- :art: Always Interested in learning new things
 
 - 📫 How to reach me **mugilancodes@gmail.com**
 
