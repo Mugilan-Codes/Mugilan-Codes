@@ -20,6 +20,8 @@
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilan-codes&layout=compact"></p> -->
 
+[![Mugilan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
 <a href="https://codepen.io/mugilan-codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mugilan-codes" height="20" width="20" /></a>
 <a href="https://twitter.com/mugilancodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mugilancodes" height="20" width="20" /></a>
