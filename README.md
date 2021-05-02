@@ -25,12 +25,6 @@
   </a>
 </p>
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilan-codes&layout=compact">
-</p>
--->
-
 [![Mugilan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
