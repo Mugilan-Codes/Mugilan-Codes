@@ -25,6 +25,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mugilan_Codes" alt="Mugilan_Codes's wakatime stats" />
+  </a>
+</p>
+
 [![Mugilan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
