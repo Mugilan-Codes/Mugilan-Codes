@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mugilan</h1>
 <h3 align="center">Full Stack Javascript Developer from India</h3>
 
-- 📫 How to reach me **mugilancodes@gmail.com**
+- 📫  Reach me @ **mugilancodes@gmail.com**
 
 - My Sourcerer [Profile](https://sourcerer.io/mugilan-codes)
 
