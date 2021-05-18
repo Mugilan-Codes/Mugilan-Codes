@@ -47,9 +47,3 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mugilancodes" height="20" width="20" />
   </a>
 </p>
-
-<!--
-<p align="center">
-  <img src="https://metrics.lecoq.io/Mugilan-Codes?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta" alt="Metrics">
-</p>
--->
