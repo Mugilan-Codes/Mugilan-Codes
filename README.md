@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> -->
     <img src="https://github-readme-stats.vercel.app/api?username=mugilan-codes&show_icons=true&include_all_commits=true&theme=radical" alt="mugilan-codes" />
-  </a>
+<!--   </a> -->
 </p>
 
 [![Mugilan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
