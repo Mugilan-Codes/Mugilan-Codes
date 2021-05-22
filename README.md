@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+<!--   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugilan-Codes&theme=dark"/>
-  </a>
+<!--   </a> -->
 </p>
 
 <p align="center">
