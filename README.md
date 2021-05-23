@@ -8,9 +8,9 @@
 - My LinkedIn [Profile](https://www.linkedin.com/in/mugilan-codes/)
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"> -->
     <img src="https://github-profile-trophy.vercel.app/?username=Mugilan-Codes&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=10&margin-h=10">
-  </a>
+<!--   </a> -->
 </p>
 
 <p align="center">
