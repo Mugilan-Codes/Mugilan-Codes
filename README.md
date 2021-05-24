@@ -25,7 +25,11 @@
 <!--   </a> -->
 </p>
 
-[![Mugilan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github" alt="Mugilan's GitHub Activity Graph">
+    </a>
+</p>
 
 <p align="center">
   <a href="https://codepen.io/mugilan-codes" target="blank">
