@@ -26,9 +26,9 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+<!--     <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"> -->
         <img src="https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github" alt="Mugilan's GitHub Activity Graph">
-    </a>
+<!--     </a> -->
 </p>
 
 <p align="center">
