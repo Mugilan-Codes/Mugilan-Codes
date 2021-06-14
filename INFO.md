@@ -10,10 +10,10 @@
 
 ## Resources
 
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) by [Ryota Sakamoto](https://github.com/ryo-ma)
-- [GitHub README Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) by [Jonah Lawrence](https://github.com/DenverCoder1)
-- [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
-- [GitHub README Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) by [Ashutosh Dwivedi](https://github.com/Ashutosh00710)
+- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) by [Ryota Sakamoto](https://github.com/ryo-ma "ryo-ma")
+- [GitHub README Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) by [Jonah Lawrence](https://github.com/DenverCoder1 "DenverCoder1")
+- [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra "anuraghazra")
+- [GitHub README Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) by [Ashutosh Dwivedi](https://github.com/Ashutosh00710 "Ashutosh00710")
 
 ### Deployment
 
