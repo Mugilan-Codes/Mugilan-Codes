@@ -6,7 +6,8 @@
 
 - [X] Deploy [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) on Vercel
 
-- [ ] Deploy [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph#deploy-on-your-own-heroku-instance) on Heroku
+- [X] Deploy [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph#deploy-on-your-own-heroku-instance) on Heroku
+  - [ ] Fork the repo
 
 ## Resources
 
@@ -20,3 +21,4 @@
 - [Mugilan's github-readme-streak-stats](https://mugilan-readme-streak-stats.herokuapp.com/) on Heroku
 - [Mugilan's github-readme-stats](github-readme-stats-mugilan-codes.vercel.app) on Vercel
   - [Forked Repo of github-readme-stats](https://github.com/Mugilan-Codes/github-readme-stats)
+- [Mugilan's github-readme-activity-graph](https://mugilan-activity-graph.herokuapp.com/) on Heroku

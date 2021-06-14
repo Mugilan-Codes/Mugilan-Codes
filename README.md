@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github" alt="Mugilan's GitHub Activity Graph">
+  <img src="https://mugilan-activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github" alt="Mugilan's GitHub Activity Graph">
 </p>
 
 <p align="center">
