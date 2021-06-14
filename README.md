@@ -8,28 +8,20 @@
 - My LinkedIn [Profile](https://www.linkedin.com/in/mugilan-codes/)
 
 <p align="center">
-<!--   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"> -->
-    <img src="https://github-profile-trophy.vercel.app/?username=Mugilan-Codes&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=10&margin-h=10">
-<!--   </a> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Mugilan-Codes&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
 </p>
 
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"> -->
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugilan-Codes&theme=dark"/> -->
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Mugilan-Codes&theme=flag-india&hide_border=true&background=000000&currStreakLabel=DD2727&currStreakNum=DD2727"/>
-<!--   </a> -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mugilan-Codes&theme=flag-india&hide_border=true&background=000000&currStreakLabel=DD2727&currStreakNum=DD2727"/>
 </p>
 
 <p align="center">
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=mugilan-codes&show_icons=true&include_all_commits=true&theme=radical" alt="mugilan-codes" />
-<!--   </a> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mugilan-codes&show_icons=true&include_all_commits=true&theme=radical" alt="mugilan-codes" />
 </p>
 
 <p align="center">
-<!--     <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"> -->
-        <img src="https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github" alt="Mugilan's GitHub Activity Graph">
-<!--     </a> -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github" alt="Mugilan's GitHub Activity Graph">
 </p>
 
 <p align="center">
