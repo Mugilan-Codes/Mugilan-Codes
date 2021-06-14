@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Deploy [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats#-deploying-it-on-your-own) on Heroku
+- [X] Deploy [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats#-deploying-it-on-your-own) on Heroku
 
 - [ ] Deploy [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) on Vercel
 
@@ -14,3 +14,7 @@
 - [GitHub README Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) by [Jonah Lawrence](https://github.com/DenverCoder1)
 - [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
 - [GitHub README Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) by [Ashutosh Dwivedi](https://github.com/Ashutosh00710)
+
+### Deployment
+
+- [Mugilan's github-readme-streak-stats](https://mugilan-readme-streak-stats.herokuapp.com/) on Heroku
