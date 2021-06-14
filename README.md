@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mugilan-codes&show_icons=true&include_all_commits=true&theme=radical" alt="mugilan-codes" />
+  <img src="https://github-readme-stats-mugilan-codes.vercel.app/api?username=mugilan-codes&show_icons=true&include_all_commits=true&theme=radical" alt="mugilan-codes" />
 </p>
 
 <p align="center">

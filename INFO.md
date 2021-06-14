@@ -4,7 +4,7 @@
 
 - [X] Deploy [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats#-deploying-it-on-your-own) on Heroku
 
-- [ ] Deploy [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) on Vercel
+- [X] Deploy [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) on Vercel
 
 - [ ] Deploy [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph#deploy-on-your-own-heroku-instance) on Heroku
 
@@ -18,3 +18,5 @@
 ### Deployment
 
 - [Mugilan's github-readme-streak-stats](https://mugilan-readme-streak-stats.herokuapp.com/) on Heroku
+- [Mugilan's github-readme-stats](github-readme-stats-mugilan-codes.vercel.app) on Vercel
+  - [Forked Repo of github-readme-stats](https://github.com/Mugilan-Codes/github-readme-stats)
