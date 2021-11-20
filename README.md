@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mugilan</h1>
+<h1 align="center">Hello There 👋, I'm Mugilan</h1>
 <h3 align="center">Full Stack Javascript Developer from India</h3>
 
-- 📫  Reach me @ **mugilancodes@gmail.com**
+- 🌱  I am currently learning **DSA**
 
-- My Sourcerer [Profile](https://sourcerer.io/mugilan-codes)
+- 📜  I am currently working on a **Full Stack Project**
+
+- :book:  Ask me about **Node.js**, **Express.js**, **React.js**, and **React Native**
+
+- 📫  Reach me @ **me@mugilancodes.com**
 
 - My LinkedIn [Profile](https://www.linkedin.com/in/mugilan-codes/)
+
+- My Sourcerer [Profile](https://sourcerer.io/mugilan-codes)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mugilan-Codes&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
