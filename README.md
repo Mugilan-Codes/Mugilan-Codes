@@ -11,7 +11,7 @@
 
 - My LinkedIn [Profile](https://www.linkedin.com/in/mugilan-codes/)
 
-- My Sourcerer [Profile](https://sourcerer.io/mugilan-codes)
+<!-- - My Sourcerer [Profile](https://sourcerer.io/mugilan-codes) -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mugilan-Codes&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
