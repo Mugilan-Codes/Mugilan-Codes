@@ -9,7 +9,7 @@
 
 - 📫  Reach me @ **me@mugilancodes.com**
 
-<!-- - My Sourcerer [Profile](https://sourcerer.io/mugilan-codes) -->
+- My Sourcerer [Profile](https://sourcerer.io/mugilan-codes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
