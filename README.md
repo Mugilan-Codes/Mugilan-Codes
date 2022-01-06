@@ -3,7 +3,7 @@
 
 - 🌱  I am currently learning **DSA, Typescript, and Nest.js**
 
-- 📜  I am currently working on a **Full Stack Project**
+<!-- - 📜  I am currently working on a **Full Stack Project** -->
 
 - :book:  Ask me about **Node.js**, **Express.js**, **React.js**, and **React Native**
 
