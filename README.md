@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Mugilan</h1>
 <h3 align="center">Full Stack Javascript Developer from India</h3>
 
-- 🌱  I am currently learning **DSA, Typescript, and Nest.js**
+- 🌱  I am currently learning **Typescript, and Nest.js**
 
 - :book:  Ask me about **Node.js**, **Express.js**, **React.js**, and **React Native**
 
