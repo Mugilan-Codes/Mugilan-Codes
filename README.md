@@ -7,7 +7,7 @@
 
 - 📫  Reach me @ **me@mugilancodes.com**
 
-- My Sourcerer [Profile](https://sourcerer.io/mugilan-codes)
+<!-- - My Sourcerer [Profile](https://sourcerer.io/mugilan-codes) -->
 
 <p align="center">
 <a href="https://twitter.com/mugilancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mugilancodes" height="30" width="40" /></a>
