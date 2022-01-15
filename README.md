@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Mugilan</h1>
+<h1 align="center">Hello There 👋, I am Mugilan E.S.</h1>
 <h3 align="center">Full Stack Javascript Developer from India</h3>
 
 - 🌱  I am currently learning **Typescript, and Nest.js**
