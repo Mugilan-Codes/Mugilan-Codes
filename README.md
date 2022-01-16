@@ -1,9 +1,9 @@
 <h1 align="center">Hello There 👋, I am Mugilan E.S.</h1>
 <h3 align="center">Full Stack Javascript Developer from India</h3>
 
-- 🌱  I am currently learning **Typescript, and Nest.js**
+- 🌱  I am currently learning **Nest**
 
-- :book:  Ask me about **Node.js**, **Express.js**, **React.js**, and **React Native**
+<!-- - :book:  Ask me about **Node.js**, **Express.js**, **React.js**, and **React Native** -->
 
 - 📫  Reach me @ **me@mugilancodes.com**
 
