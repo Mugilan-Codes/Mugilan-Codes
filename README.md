@@ -21,14 +21,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mugilan-Codes&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://mugilan-readme-streak-stats.herokuapp.com/?user=Mugilan-Codes&theme=flag-india&hide_border=true&background=000000&currStreakLabel=DD2727&currStreakNum=DD2727"/>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats-mugilan-codes.vercel.app/api?username=mugilan-codes&show_icons=true&include_all_commits=true&theme=radical" alt="mugilan-codes" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://mugilan-activity-graph.herokuapp.com/graph?username=Mugilan-Codes&theme=github" alt="Mugilan's GitHub Activity Graph">
-</p>
+</p> -->
